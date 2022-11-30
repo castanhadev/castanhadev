@@ -11,7 +11,7 @@ I'm studying to be a developer, and here I'll add some projects that I'm going t
 
 # Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castanhadev&repo=castanhadev.github.io)](https://github.com/anuraghazra/github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castanhadev&repo=castanhadev.github.io)
 
 # Contact
 
