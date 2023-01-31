@@ -12,7 +12,7 @@ I'm studying to be a developer, and here I'll add some projects that I'm going t
 # Projects
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castanhadev&repo=castanhadev.github.io)
-/n
+/n1
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=castanhadev&repo=Habits)
 
 # Contact
